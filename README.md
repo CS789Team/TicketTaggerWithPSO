@@ -14,3 +14,4 @@ recall:  0.269
 f1 score:  0.369
 
 - we're considering each issue (title and description) as the practical in the PSO. our goal is to summarize each issue using PSO (text summarization), in order to reduce the training time and reduce memory usage.
+- we are facing issue in certain file and we tried to contact with authors.
