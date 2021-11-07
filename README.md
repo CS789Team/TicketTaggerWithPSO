@@ -15,6 +15,6 @@ f1 score:  0.369
 
 - we're considering each issue (title and description) as the practical in the PSO. our goal is to summarize each issue using PSO (text summarization), in order to reduce the training time and reduce memory usage.
 - we are facing issue in certain file and we tried to contact with authors.
-we write the requirement.
-we add the sequeces digram on same file of the requirement
+- we wrote the requirement and upload it here.
+- we  drew the initial sequeces digram on same file of the requirement and add it in the Github
 - we tring to build the source code in python language
