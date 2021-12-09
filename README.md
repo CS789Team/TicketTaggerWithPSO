@@ -1,6 +1,8 @@
 # Table of content:
 • introduction
+
    • Ticket Tagger with Feature Selection using PSO Algorithm
+
 • Requirements 
 
 
