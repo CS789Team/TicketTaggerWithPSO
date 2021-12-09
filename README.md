@@ -32,3 +32,9 @@ https://newbedev.com/import-googlenews-vectors-negative300-bin
 Explain for some of terminologies:
 
 fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
+
+
+The preprocessing on data has been done in two files:
+
+A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
+B- Data cleaning in A ,word stemming, and stop words removal. 
