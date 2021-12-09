@@ -7,7 +7,9 @@
 
 • Requirements 
 
-• project files
+• Project files
+
+• Resource links
 
 
 
