@@ -23,6 +23,8 @@ Explain for some of terminologies:
 
 *  fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
 
+*  Word2Vec :is a technique  that creates word embeddings in the field of Natural Language Processing (NLP). It takes in words from a large corpus of texts as input and learns to give out their vector representation
+
 
 # Requirements: 
 
