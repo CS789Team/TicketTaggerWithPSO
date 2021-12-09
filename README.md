@@ -2,8 +2,13 @@
 • introduction
 
        • Ticket Tagger with Feature Selection using PSO Algorithm
+         
+       • Explain for some terminologies
 
 • Requirements 
+
+• project files
+
 
 
 # Ticket Tagger with Feature Selection using PSO Algorithm 
