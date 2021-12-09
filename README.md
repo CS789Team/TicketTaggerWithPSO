@@ -36,5 +36,7 @@ fastText : fastText is a library for efficient learning of word representations 
 
 The preprocessing on data has been done in two files:
 
-A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
-B- Data cleaning in A ,word stemming, and stop words removal. 
+*  A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
+*  B- Data cleaning in A ,word stemming, and stop words removal. 
+
+(A) maintained an acceptable accuracy, while (B) decreases the accuracy. so, word stemming and stop words removal wasn't considered in our work.
