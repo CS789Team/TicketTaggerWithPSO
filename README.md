@@ -16,7 +16,7 @@ Run requirements:
 * install W2V  pre-trained model. you can install it from this link:
 https://newbedev.com/import-googlenews-vectors-negative300-bin
 
-explain for some of terminologies:
+Explain for some of terminologies:
 
 fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
 
