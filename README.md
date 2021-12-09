@@ -9,6 +9,13 @@ This repostriy contains project files as following :
 *  w2v folder (contains W2V pretrained model as try )
 *  others files contains source code in Python & some documents.
 
+Run requirements: 
+
+* install pyswarms library. 
+* install fasttext pre-trained model for english language. you can install it from this link : https://fasttext.cc/docs/en/pretrained-vectors.html
+* install W2V  pre-trained model. you can install it from this link:
+https://newbedev.com/import-googlenews-vectors-negative300-bin
+
 # Our work:
 
  - searching for enhancement idea. 
