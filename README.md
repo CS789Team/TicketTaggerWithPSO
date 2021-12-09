@@ -7,21 +7,40 @@
 
 • Requirements 
 
-• preprocessing for data
-
-      • A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
-      
-      • B- Data cleaning in (A) ,word stemming, and stop words removal. 
+• Datasate
 
 • Project files
 
 • Resource links
 
 
-
 # Ticket Tagger with Feature Selection using PSO Algorithm 
 
 Ticket tagger is subject project for four students that aimed to classify Github issues into three categories (bug, question, and enhancement) in order to help the users to manage thier time and priority.  we used fastText pretrained model to generate  the text vectors (300 vec) then we used particle swarm optimization algorithm (PSO) for feature selection. finally, we trained selected feature using SVM model.
+
+# Terminologies
+Explain for some of terminologies:
+
+*  fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
+
+
+# Requirements: 
+
+* install pyswarms library. 
+* install fasttext pre-trained model for english language. 
+* install W2V  pre-trained model. 
+
+# Dataset 
+
+The preprocessing on data has been done in two files:
+
+*  A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
+*  B- Data cleaning in A ,word stemming, and stop words removal. 
+
+(A) maintained an acceptable accuracy, while (B) decreases the accuracy. so, word stemming and stop words removal wasn't considered in our work.
+
+
+# Project files 
 
 This repository contains project files as following : 
 
@@ -32,21 +51,9 @@ This repository contains project files as following :
 *  Datasets, dataset after cleaning and the main dataset (will be shared with you later due to its large size).
 *  Dataset cleaning method in python. 
 
-Run requirements: 
+# Resouce Links
 
-* install pyswarms library. 
-* install fasttext pre-trained model for english language. you can install it from this link : https://fasttext.cc/docs/en/pretrained-vectors.html
-* install W2V  pre-trained model. you can install it from this link:
-https://newbedev.com/import-googlenews-vectors-negative300-bin
+* you can install fastText from this link : https://fasttext.cc/docs/en/pretrained-vectors.html
 
-Explain for some of terminologies:
+* you can install W2V from this link: https://newbedev.com/import-googlenews-vectors-negative300-bin
 
-fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
-
-
-The preprocessing on data has been done in two files:
-
-*  A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
-*  B- Data cleaning in A ,word stemming, and stop words removal. 
-
-(A) maintained an acceptable accuracy, while (B) decreases the accuracy. so, word stemming and stop words removal wasn't considered in our work.
