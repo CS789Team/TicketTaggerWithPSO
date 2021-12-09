@@ -21,6 +21,8 @@ This repository contains project files as following :
 *  fasttext folder (contains fasttext pretrained model )
 *  w2v folder (contains W2V pretrained model as try )
 *  others files contains source code in Python & some documents.
+*  Datasets, dataset after cleaning and the main dataset (will be shared with you later due to its large size).
+*  Dataset cleaning method in python. 
 
 Run requirements: 
 
