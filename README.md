@@ -17,6 +17,7 @@ Run requirements:
 https://newbedev.com/import-googlenews-vectors-negative300-bin
 
 explain for some of terminologies:
+
 fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
 
 # Our work:
