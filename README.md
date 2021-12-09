@@ -8,7 +8,9 @@
 • Requirements 
 
 • preprocessing for data
+
       • A- Data cleaning by removing emojis, symbols, pictographs, non-English charecters, numbers ,and links.
+      
       • B- Data cleaning in (A) ,word stemming, and stop words removal. 
 
 • Project files
