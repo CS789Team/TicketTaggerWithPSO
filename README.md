@@ -1,14 +1,14 @@
  Table of content:
  =================
-• introduction
+* introduction
 
        • Ticket Tagger with Feature Selection using PSO Algorithm
          
        • Explain for some terminologies
 
-• Requirements 
+* Requirements 
 
-• Datasate
+* Datasate
 
        • Pre-processing 
 
