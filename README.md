@@ -65,6 +65,6 @@ This repository contains project files as following :
 
 # References 
 
-
+ * https://www.section.io/engineering-education/what-is-word2vec/
 
 
