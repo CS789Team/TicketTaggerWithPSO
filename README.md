@@ -15,6 +15,8 @@
 
 • Resource links
 
+• References
+
 
 # Ticket Tagger with Feature Selection using PSO Algorithm 
 
