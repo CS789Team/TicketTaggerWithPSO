@@ -61,3 +61,8 @@ This repository contains project files as following :
 
 * you can install W2V from this link: https://newbedev.com/import-googlenews-vectors-negative300-bin
 
+# References 
+
+
+
+
