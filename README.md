@@ -55,11 +55,12 @@ The preprocessing on data has been done in two files:
 This repository contains project files as following : 
 
 *  dataset folder.
-*  fasttext folder (contains fasttext pretrained model )
-*  w2v folder (contains W2V pretrained model as try )
+*  fasttext folder (contains using of fasttext pretrained model )
+*  w2v folder (contains using of W2V pretrained model as try )
 *  others files contains source code in Python & some documents.
 *  Datasets, dataset after cleaning and the main dataset (will be shared with you later due to its large size).
 *  Dataset cleaning method in python. 
+*  paper folder 
 
 # Resouce Links
 
