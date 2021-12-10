@@ -12,7 +12,7 @@
 
        *  Pre-processing 
 
-* [Project files](#Project_ files)
+* [Project files](#Project_files)
 
 * [Resource links](#Resource_links)
 
