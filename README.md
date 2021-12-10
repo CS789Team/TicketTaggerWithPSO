@@ -8,15 +8,15 @@
 
 * [Requirements](#Requirements) 
 
-* [Datasate](#Datasate)
+* [Datasate](#Dataset)
 
        *  Pre-processing 
 
-* [Project files](#Project_files)
+* [Project files](#Project files)
 
-* [Resource links](#Resource_links)
+* [Resource links](#Resouce Links)
 
-* [References](#References)
+* [References](#Reference)
 
 
 # Introduction
