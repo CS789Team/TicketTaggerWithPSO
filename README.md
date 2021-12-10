@@ -2,15 +2,15 @@
  =================
 * [introduction](#introduction)
 
-       * [Ticket Tagger with Feature Selection using PSO Algorithm](#Ticket_Tagger_with_Feature_Selection_using_PSO_Algorithm)
+       * Ticket Tagger with Feature Selection using PSO Algorithm
          
-       * [Explain for some terminologies](#Explain_for_some_terminologies)
+       * Explain for some terminologies
 
 * [Requirements](#Requirements) 
 
 * [Datasate](#Datasate)
 
-       * [Pre-processing](#Pre-processing) 
+       * Pre-processing 
 
 * [Project files](#Project_files)
 
