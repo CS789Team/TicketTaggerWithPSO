@@ -68,7 +68,7 @@ This repository contains project files as following :
 
 # References 
 
- * [1] https://www.intechopen.com/chapters/69586
+ * [1]- https://www.intechopen.com/chapters/69586
  * [2]- https://towardsdatascience.com/fasttext-ea9009dba0e8
  * [3]-  https://www.section.io/engineering-education/what-is-word2vec/
 
