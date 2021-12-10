@@ -18,11 +18,12 @@
 • References
 
 
-# Ticket Tagger with Feature Selection using PSO Algorithm 
+# Introduction
+## Ticket Tagger with Feature Selection using PSO Algorithm 
 
 Ticket tagger is subject project for four students that aimed to classify Github issues into three categories (bug, question, and enhancement) in order to help the users to manage thier time and priority.  we used fastText pretrained model to generate  the text vectors (300 vec) then we used particle swarm optimization algorithm (PSO) for feature selection. finally, we trained selected feature using SVM model.
 
-# Terminologies
+## Terminologies
 Explain for some of terminologies:
 
 * particle swarm optimization (PSO) algorithm [1] :  is a metaheuristic algorithm based on the concept of swarm intelligence capable of solving complex mathematics problems existing in engineering
