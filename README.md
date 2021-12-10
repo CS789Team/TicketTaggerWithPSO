@@ -25,9 +25,9 @@ Ticket tagger is subject project for four students that aimed to classify Github
 # Terminologies
 Explain for some of terminologies:
 
-*  fastText : fastText is a library for efficient learning of word representations and sentence classification. we use it to represent every feature as a vector.
+*  fastText [1] : fastText is a library for efficient learning of word representations and sentence classification. We use it to represent every feature as a vector.
 
-*  Word2Vec :is a technique  that creates word embeddings in the field of Natural Language Processing (NLP). It takes in words from a large corpus of texts as input and learns to give out their vector representation
+*  Word2Vec [2] :is a technique  that creates word embeddings in the field of Natural Language Processing (NLP). It takes in words from a large corpus of texts as input and learns to give out their vector representation
 
 
 # Requirements: 
@@ -65,6 +65,6 @@ This repository contains project files as following :
 
 # References 
 
- * https://www.section.io/engineering-education/what-is-word2vec/
-
+ * [1]- https://towardsdatascience.com/fasttext-ea9009dba0e8
+ * [2]-  https://www.section.io/engineering-education/what-is-word2vec/
 
